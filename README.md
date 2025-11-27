@@ -13,14 +13,6 @@ The full project, including dataset configuration, preprocessing blocks, feature
 
 **Edge Impulse Project:** https://studio.edgeimpulse.com/public/793939/live
 
-# 📄 About This Repository
-
-This repository serves as a public reference accompanying the article:
-
-**“Wing-Based Identification of Dengue Vector Mosquitoes Using Convolutional Neural Networks.”**
-
-Because all experiments were conducted directly within the Edge Impulse platform, no additional code artifacts are provided here.
-
 # 📚 How to Reproduce the Results
 
 To reproduce the results, simply open the public project link above.
